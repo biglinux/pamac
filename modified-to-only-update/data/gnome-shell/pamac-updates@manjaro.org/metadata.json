@@ -1,0 +1,10 @@
+{
+  "description": "GNOME Shell Updates indicator for Pamac.", 
+  "name": "Pamac Updates Indicator",
+  "shell-version": [
+    "3.36"
+  ], 
+  "url": "https://gitlab.manjaro.org/applications/pamac", 
+  "uuid": "pamac-updates@manjaro.org", 
+  "version": 1
+}
